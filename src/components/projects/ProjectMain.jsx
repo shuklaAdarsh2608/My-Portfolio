@@ -25,7 +25,7 @@ const projects = [
     name: "LUDO Game",
     year: "2023",
     align: "right",
-    image: "../../public/images/Img3.jpg",
+    image: "../../public/images/img3.jpg",
     link: "#",
   },
   {
