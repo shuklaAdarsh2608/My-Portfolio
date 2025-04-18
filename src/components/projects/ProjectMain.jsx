@@ -11,31 +11,32 @@ const projects = [
     name: "Hospital Management System",
     year: "2023",
     align: "right",
-    image: "../../public/images/Img1.jpg",
+    image: "/images/Img1.jpg",
     link: "#",
   },
   {
     name: "Tour and Travels ",
     year: "2023",
     align: "left",
-    image: "../../public/images/Img2.jpg",
+    image: "/images/Img2.jpg",
     link: "#",
   },
   {
     name: "LUDO Game",
     year: "2023",
     align: "right",
-    image: "../../public/images/img3.jpg",
+    image: "/images/img3.jpg",
     link: "#",
   },
   {
     name: "Hospital Management System",
     year: "2023",
     align: "left",
-    image: "../../public/images/Img1.jpg",
+    image: "/images/Img1.jpg",
     link: "#",
   },
 ];
+
 
 const ProjectMain = () => {
   return (
